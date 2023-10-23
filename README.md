@@ -25,9 +25,9 @@
 - You can input a Book Name, Author, then click 'Add Book'.
 - You can keep adding books which will append entries to the table
 
-  ## Future Optimizations
-  - Connect an actual database that store the data
-  - Add functionality for 'Edit', 'Delete', 'Comments', 'Category'
+## Future Optimizations
+- Connect an actual database that store the data
+- Add functionality for 'Edit', 'Delete', 'Comments', 'Category'
 
 
 
