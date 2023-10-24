@@ -4,6 +4,8 @@
 
 - Simple Flask application to add a book to a book manager using author and book title.
 
+![image](https://github.com/MaayonThayaparan/bookManager-Flask/assets/43158629/9eb54ce8-4582-4cfa-a566-83cc57a35db7)
+
 ## Getting Started
 
 ### Dependencies
@@ -19,7 +21,7 @@
 
 ### Executing the Program
 - Open terminal
-- Ensure you are in the project folder
+- From the root of the project folder navigate to /bookManager 
 - Run command: python bookManager.py
 - Above commmand will run the server. Open web browser and enter URL: http://localhost:5000
 - You can input a Book Name, Author, then click 'Add Book'.
